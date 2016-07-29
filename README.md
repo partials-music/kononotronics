@@ -18,28 +18,35 @@ Lyrics
 
 # verse
 
-c: I, I ended up in the city
-r: I ended up in the city where the sun beats
+I, I ended up in the city
+I ended up in the city where the sun beats
 
-c: I, I ended up in the city
-r: I ended up in the city where the sun beats down
+I, I ended up in the city
+I ended up in the city where the sun beats down
 
-c: I, I ended up in a building
-r: I ended up in a building where the roof leaks
+I, I ended up in a building
+I ended up in a building where the roof leaks
 
-c: I, I ended up in a building
-r: I ended up in a building where the roof leaks were drowning me
+I, I ended up in a building
+I ended up in a building where the roof leaks were drowning me
 
 # chorus
 
-all of us, homeless
-lying alone
-this moonlight steeping in an empty cup
-
-plenty of nothing to fill us up
-plenty of nothing to fill us up
+look up
+moonlight steeping in an empty cup
 
 look up
+plenty of nothing to fill us up
+
+all of us
+ever homeless
+
+
+
+plenty of nothing to fill us up
+plenty of nothing to fill us up
+
+
 look up
 look up
 look up
