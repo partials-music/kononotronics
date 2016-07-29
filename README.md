@@ -32,16 +32,20 @@ I ended up in a building where the roof leaks were drowning me
 
 # chorus
 
+all of us, ever homeless
+lunar light
+slowly steeping in an empty cup
 look up
-moonlight steeping in an empty cup
 
-look up
 plenty of nothing to fill us up
 
-all of us
-ever homeless
+look up
 
 
+
+all of us homeless
+lying alone, this
+moonlight steeping in an empty cup
 
 plenty of nothing to fill us up
 plenty of nothing to fill us up
