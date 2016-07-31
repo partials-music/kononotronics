@@ -40,7 +40,6 @@ all of us, foreign exiles
 trying a conversation but you just will not look up
 trying to understand you but you just interrupt
 
-
 struck
 cut
 glut
