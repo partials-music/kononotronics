@@ -18,11 +18,11 @@ Lyrics
 
 # verse
 
-I, I ended up in the city
-I ended up in the city where the sun beats
+I, I ended up in a city
+I ended up in a city where the sun beats
 
-I, I ended up in the city
-I ended up in the city where the sun beats down
+I, I ended up in a city
+I ended up in a city where the sun beats down
 
 I, I ended up in a building
 I ended up in a building where the roof leaks
@@ -30,11 +30,27 @@ I ended up in a building where the roof leaks
 I, I ended up in a building
 I ended up in a building where the roof leaks were drowning me
 
-# chorus
+# prechorus
 
 all of us, ever homeless
-lunar light
-slowly steeping in an empty cup
+slowly sipping the moonlight steeping in our empty cups
+sitting at a banquet of nothing certain to fill us up
+
+all of us, foreign exiles
+trying a conversation but you just will not look up
+trying to understand you but you just interrupt
+
+
+struck
+cut
+glut
+abrupt
+erupt
+corrupt
+reconstruct
+interrupt
+flux
+
 look up
 
 plenty of nothing to fill us up
