@@ -1,3 +1,102 @@
+# verse one
+
+I, I ended up in a city
+  I, I stumbled up on a city
+but hearing another city where my friends cant
+  but hearing another city where my friends speak
+  cemented inside a shadow while the sun beat
+  I ended up in a ruin where the noon beats
+  I ended up in a ruin where the sun beats
+  I wandered a ruined city where the sun beats
+  A ruin, a silent city where the sun beats
+  I ended up in a city where the sun beats
+  I stumbled onto a city where the sun beats down
+I, I ended up in a wasteland
+  I, I ended up in a deep sleep
+  I, I ended up in a secret
+  I, I stumbled up on a city
+and speaking a tongue my friends can't understand
+  befriending a silent city where the sun beat down
+  A ruin, a silent city where the noon beats down
+  A ruin, a silent city where the sun beats down
+  I wandered a silent city where the sun beats down
+  I stumbled up on a city where the sun beats down
+  I found myself in a city where the sun beats down
+
+# verse two
+
+I, I found myself in a building
+and damming the many rivers that the roof leaked
+  descending the many rivers that the roof leaked
+  drowning in many rivers that the roof leaked
+  descending the many rivers where the roof leaks
+  descending the many rivers of the roof leaks
+  A refuge, a rocky temple where the roof leaks
+  I found myself in a temple where the roof leaks
+I, I found myself in a heartbeat
+I found myself in a heartbeat when the roof leaks were drowning me
+  I found myself in a city when the roof leaks were drowning me
+  I found myself in a temple where the roof leaks were drowning me
+
+# chorus
+
+we've always known that somewhere is home
+we've always known that somewhere is home
+when I arrived you were the first to go
+  when I was looking you were the first to go
+  when I was thirsty you were the flood below
+  while I was seeking you found it on your own
+we've always known that elsewhere is home
+
+# verse three
+
+I, I ended up ever homeless
+just sipping the moonlight steeping in my gold cup
+  just sipping the moonlight steeping in my tin cup
+  just sipping the moonlight steeping in empty cups
+I, I ended up never noticed
+and daily a feast of air to fill me up
+  before me a feast of air to fill me up
+  with only a feast of air to fill me up
+  enjoying a feast of air to fill me up
+  sitting at a banquet of nothing certain to fill us up
+  sitting at a banquet of nothing certain to fill them up
+
+# verse four
+
+I, I found myself by the roadside
+  I, I spent my days by the wayside
+  I, I found myself by the wayside
+  I, I found myself as an exile
+  all of us, ever homeless
+and trying to get to know you when my fears spoke up, I
+  trying a conversation but we just cannot speak up
+  trying a conversation but we just cannot look up
+  trying a conversation but just our fears look up
+  trying a conversation but they just will not look up
+  trying a conversation but these wanderers won't look up
+  trying to conversate but you just will not look up
+I found myself without daylight
+  I found myself in a landslide
+I found myself without daylight when my fears started drowning me
+  I found myself trying but the landslide of fear was interrupting me
+  trying to find a new way before our fears interrupt
+  trying to find a new way before our thoughts interrupt
+  trying to find a new way before they interrupt
+  trying to find a new way but they don't even interrupt
+  trying to understand you but you just interrupt
+
+# chorus
+
+we've always known that somewhere is home
+we've always known that somewhere is home
+when I arrived you were the first to go
+  when I was looking you were the first to go
+  when I was thirsty you were the flood below
+  while I was seeking you found it on your own
+we've always known that elsewhere is home
+
+
 Title
 =====
 
@@ -150,7 +249,7 @@ and speaking a tongue my friends can't understand
 # verse two
 
 I, I found myself in a building
-damming the many rivers that the roof leaked
+and damming the many rivers that the roof leaked
   descending the many rivers that the roof leaked
   drowning in many rivers that the roof leaked
   descending the many rivers where the roof leaks
