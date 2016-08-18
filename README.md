@@ -2,7 +2,10 @@
 
 I, I ended up in a city
   I, I stumbled up on a city
-but hearing another city where my friends cant
+and hearing a language you can speak but I can't
+  and hearing a language they can speak but I can't
+  around me, another city where I can't speak
+  but hearing another city where my friends cant
   but hearing another city where my friends speak
   cemented inside a shadow while the sun beat
   I ended up in a ruin where the noon beats
@@ -11,7 +14,9 @@ but hearing another city where my friends cant
   A ruin, a silent city where the sun beats
   I ended up in a city where the sun beats
   I stumbled onto a city where the sun beats down
-I, I ended up in a wasteland
+I, I ended up in a dead trance
+  I, I ended up in a thick trance
+  I, I ended up in a wasteland
   I, I ended up in a deep sleep
   I, I ended up in a secret
   I, I stumbled up on a city
@@ -38,7 +43,7 @@ I found myself in a heartbeat when the roof leaks were drowning me
   I found myself in a city when the roof leaks were drowning me
   I found myself in a temple where the roof leaks were drowning me
 
-# chorus
+# pre-chorus
 
 we've always known that somewhere is home
 we've always known that somewhere is home
@@ -48,14 +53,22 @@ when I arrived you were the first to go
   while I was seeking you found it on your own
 we've always known that elsewhere is home
 
+# chorus
+
+ooh
+
 # verse three
 
 I, I ended up ever homeless
-just sipping the moonlight steeping in my gold cup
+and sipping the moonlight steeping in my thin cup
+  and sipping the moonlight steeping in my red cup
+  and sipping the moonlight steeping in my clay cup
+  and sipping the moonlight steeping in my gold cup
   just sipping the moonlight steeping in my tin cup
   just sipping the moonlight steeping in empty cups
 I, I ended up never noticed
-and daily a feast of air to fill me up
+but always a feast of air to fill me up
+  and daily a feast of air to fill me up
   before me a feast of air to fill me up
   with only a feast of air to fill me up
   enjoying a feast of air to fill me up
@@ -86,7 +99,7 @@ I found myself without daylight when my fears started drowning me
   trying to find a new way but they don't even interrupt
   trying to understand you but you just interrupt
 
-# chorus
+# pre-chorus
 
 we've always known that somewhere is home
 we've always known that somewhere is home
@@ -96,6 +109,9 @@ when I arrived you were the first to go
   while I was seeking you found it on your own
 we've always known that elsewhere is home
 
+# chorus
+
+ooh
 
 Title
 =====
