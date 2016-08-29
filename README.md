@@ -20,7 +20,7 @@ I, I ended up in a dead trance
   I, I ended up in a deep sleep
   I, I ended up in a secret
   I, I stumbled up on a city
-and speaking a tongue my friends can't understand
+and speaking a tongue my friends can't even understand
   befriending a silent city where the sun beat down
   A ruin, a silent city where the noon beats down
   A ruin, a silent city where the sun beats down
@@ -43,41 +43,68 @@ I found myself in a heartbeat when the roof leaks were drowning me
   I found myself in a city when the roof leaks were drowning me
   I found myself in a temple where the roof leaks were drowning me
 
-# pre-chorus
+# chorus
 
 we've always known that somewhere is home
 we've always known that somewhere is home
 when I arrived you were the first to go
+  when I arrived, there was nowhere to go
   when I was looking you were the first to go
   when I was thirsty you were the flood below
   while I was seeking you found it on your own
 we've always known that elsewhere is home
+how can you know?
+how can we know?
+how do you know?
+here's how we know
 
-# chorus
+no place to go
+
+
+go
+know
+sow
+bestow
+flow
+undertow
+floe
+bow
+tow
+bro
+
+
+now to wake we go
+the dream of dreams we know
+
+nowhere to go
+
+
+what of a dream do we know
+what dream of dreams we know
+let us go
+let us not slow
+we don't know where to go
+where should we go?
+try to go
+today we go
+now let's go
+when do we go
+when can we go
+now can we go
+now let us go
+what's there to know
+teach us to know
+leave to know
+
+
+
+# hook
 
 ooh
 
 # verse three
 
-I, I ended up ever homeless
-and sipping the moonlight steeping in my thin cup
-  and sipping the moonlight steeping in my red cup
-  and sipping the moonlight steeping in my clay cup
-  and sipping the moonlight steeping in my gold cup
-  just sipping the moonlight steeping in my tin cup
-  just sipping the moonlight steeping in empty cups
-I, I ended up never noticed
-but always a feast of air to fill me up
-  and daily a feast of air to fill me up
-  before me a feast of air to fill me up
-  with only a feast of air to fill me up
-  enjoying a feast of air to fill me up
-  sitting at a banquet of nothing certain to fill us up
-  sitting at a banquet of nothing certain to fill them up
-
-# verse four
-
-I, I found myself by the roadside
+I, I found myself ever homeless
   I, I spent my days by the wayside
   I, I found myself by the wayside
   I, I found myself as an exile
@@ -99,7 +126,7 @@ I found myself without daylight when my fears started drowning me
   trying to find a new way but they don't even interrupt
   trying to understand you but you just interrupt
 
-# pre-chorus
+# chorus
 
 we've always known that somewhere is home
 we've always known that somewhere is home
@@ -109,7 +136,7 @@ when I arrived you were the first to go
   while I was seeking you found it on your own
 we've always known that elsewhere is home
 
-# chorus
+# hook
 
 ooh
 
